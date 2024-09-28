@@ -1,11 +1,11 @@
-title: John Doe # your name (or website title) here
+title: Tiffany Tay # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Data Storyteller, CPA, Product Owner, Business Analyst | PwC | Masters in Accounting 
   <br><br>
   Second description 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="www.linkedin.com/in/tiffany-n-tay">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
