@@ -6,7 +6,7 @@ I am currently a Tax Technology Manager at PwC, where I lead a tax reporting mod
 
 I've led cross-functional teams... My expertise lies in transforming raw data into strategic assets, whether it's through developing comprehensive dashboards that secure multi-million dollar proposals or implementing automation strategies that save thousands of work hours. I thrive on using data to solve complex business problems and am passionate about fostering a data-driven culture that empowers organizations to make informed decisions.
 
-I value beautiful design and efficiency. When not working, I love to draw inspiration from travel and lift my spirit playing with dogs.
+I value beautiful design and efficiency. When not working, I love to draw inspiration from travel and the wonderfully simple nature of dogs.
 
 ---
 
