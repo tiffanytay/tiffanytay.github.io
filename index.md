@@ -10,7 +10,7 @@ I value beautiful design and efficiency. When not working, I love to draw inspir
 
 ### Portfolio 
 
-[HR Employee Dashboard](/sample_page)
+[HR Employee Dashboard](/HRdashboard_page)
 <img src="images/hr-home.png?raw=true"/>
 
 ---
