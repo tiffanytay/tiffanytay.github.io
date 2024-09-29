@@ -1,8 +1,14 @@
 ## HR Employee Dashboard
 
-**Project description:** AquaSync is a fictional software-as-a-service (SaaS) business designed to streamline water management for municipalities, agricultural sectors, and industrial users. The company wishes to increase employee job satisfaction and employee retention. This project reveals actionable insights through data manipulation and data visualization - using Power Query and Power BI to combine performance assessment results with basic employee data.
+**Project description:**  This project reveals actionable insights through data manipulation and data visualization - using Power Query and Power BI to combine performance assessment results with basic employee data.
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+### 1. Understand the problem
+
+**Problem statement:** AquaSync is a fictional software-as-a-service (SaaS) business designed to streamline water management for municipalities, agricultural sectors, and industrial users. The company wishes to increase employee job satisfaction and employee retention.
+
+**Additional background:** The company [ ].
+
+### 2. Suggest hypotheses about the causes of problem
 
 AquaSync has formed the following hypotheses: 
 
@@ -16,7 +22,7 @@ Employees are not receiving enough training.
 Employees are travelling too much.
 ```
 
-### 2. Assess assumptions on which statistical inference will be based
+### 3. Assess assumptions on which statistical inference will be based
 
 ```javascript
 if (isAwesome){
@@ -24,11 +30,11 @@ if (isAwesome){
 }
 ```
 
-### 3. Support the selection of appropriate statistical tools and techniques
+### 4. Analyze the dataset to validate hypotheses and form solution strategy
 
 <img src="images/hr-home.png?raw=true"/>
 
-### 4. Provide a basis for further data collection through surveys or experiments
+### 5. Provide a basis for further data collection through surveys or experiments
 
 - Why does AquaSync have so many more Sales Executives than Sales Representatives?
 - To gain more insights into the performance reviews, add components for managers to assess employees on company values such as innovation, teamwork, etc.
