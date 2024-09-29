@@ -16,10 +16,6 @@ I value beautiful design and efficiency. When not working, I love to draw inspir
 <img src="images/hr-home.png?raw=true"/>
 
 ---
-[Financial Planning](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
+[Financial Planning](/financialplanning_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
