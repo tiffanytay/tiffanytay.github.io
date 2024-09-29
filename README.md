@@ -1,4 +1,4 @@
-## Developer Portfolio Landing Page
+## About This Portfolio
 
 ---
 
@@ -39,9 +39,6 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Roadmap
-
-This project has been discontinued and is no longer actively maintained. No new features or fixes will be added. If you're interested in contributing, feel free to fork the repository and customize it to your needs.
 ___
 
 ### References
