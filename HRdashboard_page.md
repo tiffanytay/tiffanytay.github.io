@@ -34,3 +34,12 @@ if (isAwesome){
 - To gain more insights into the performance reviews, add components for managers to assess employees on company values such as innovation, teamwork, etc.
 
 For more details, see the [dashboard](https://guides.github.com/features/mastering-markdown/) on Power BI.
+
+---
+
+### References
+
+[1] 'HR Analytics Employee Attrition & Performance' dataset via Kaggle: https://www.kaggle.com/datasets/mahmoudemadabdallah/hr-analytics-employee-attrition-and-performance (Other License)
+<br>[2] Dummy company logo via Reddit: https://www.reddit.com/r/logodesign/comments/15q816y/logo_for_a_fake_water_dispenser_company_that/
+<br>[3] Icons: https://v1.heroicons.com/ (MIT License)
+<br>[4] Home photo designed by Freepik: https://www.freepik.com/free-photo/fresh-water-texture-background-transparent-liquid_18830892.htm#query=Water&position=0&from_view=keyword&track=ais_hybrid&uuid=933bd21a-0649-441c-805a-219a79098ac6 (Free License)
