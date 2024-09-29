@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [HR Employee Dashboard](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/hr-home.png?raw=true"/>
 
 ---
 [Financial Planning](/pdf/sample_presentation.pdf)
