@@ -1,8 +1,18 @@
 ## Financial Planning
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Project description:** [ ]
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+### 1. Understand the problem
+
+**Problem statement:** TechnoServe, a fictional tech SaaS (Software as a service) startup that specialises in different types of cloud-based software services to the small and medium enterprise customers. The products provided by the company are inclined towards increasing the productivity for the customers.
+
+The revenue that the company generates is highly dependent on the consumption of the cloud services that they provide. Therefore, the revenue in-flow in the company is highly dependent on the number of clients that the company has. The company is facing a very pertinent problem faced in the IT industry today, declining conversions across its sales funnel.
+
+The problem that the company is facing is that its pipeline conversion percentage has dropped from 35% at the end of the last fiscal (FY 2019-20) to 25% at present. The company needs a solution to solve the issue, and they have asked you to come up with one.
+
+**Additional background:** The company is based out of Pune and started its operations in 2010. It has clients spread over Pune and other cities as well. There are more than 600 employees, distributed over multiple teams. It has a wide variety of IT solutions spread across different industries.
+
+### 2. Suggest hypotheses about the causes of problem
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
@@ -12,7 +22,7 @@ if (isAwesome){
 }
 ```
 
-### 2. Assess assumptions on which statistical inference will be based
+### 3. Assess assumptions on which statistical inference will be based
 
 ```javascript
 if (isAwesome){
@@ -20,11 +30,11 @@ if (isAwesome){
 }
 ```
 
-### 3. Support the selection of appropriate statistical tools and techniques
+### 4. Analyze the dataset to validate hypotheses and form solution strategy
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-### 4. Provide a basis for further data collection through surveys or experiments
+### 5. Provide a basis for further data collection through surveys or experiments
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
