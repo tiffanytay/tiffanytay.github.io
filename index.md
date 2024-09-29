@@ -16,6 +16,6 @@ I value beautiful design and efficiency. When not working, I love to draw inspir
 <img src="images/hr-home.png?raw=true"/>
 
 ---
-[Financial Planning](/BusinessDev_page)
+[Business Development Dashboard](/BusinessDev_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
