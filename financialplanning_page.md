@@ -39,3 +39,12 @@ if (isAwesome){
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+---
+
+### References
+
+[1] 'SalesPipeline Conversion with Logistic Regression' dataset via Kaggle: https://www.kaggle.com/code/gauravduttakiit/salespipeline-conversion-with-logistic-regression/input (Apache 2.0 Open Source License)
+<br>[2] Dummy company logo via Reddit: https://www.reddit.com/r/logodesign/comments/15q816y/logo_for_a_fake_water_dispenser_company_that/
+<br>[3] Icons: https://v1.heroicons.com/ (MIT License)
+<br>[4] Home photo designed by Freepik: https://www.freepik.com/free-photo/fresh-water-texture-background-transparent-liquid_18830892.htm#query=Water&position=0&from_view=keyword&track=ais_hybrid&uuid=933bd21a-0649-441c-805a-219a79098ac6 (Free License)
