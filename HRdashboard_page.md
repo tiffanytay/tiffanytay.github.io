@@ -6,21 +6,13 @@
 
 **Problem statement:** AquaSync is a fictional software-as-a-service (SaaS) business designed to streamline water management for municipalities, agricultural sectors, and industrial users. The company wishes to increase employee job satisfaction and employee retention.
 
-**Additional background:** The company [ ].
-
 ### 2. Suggest hypotheses about the causes of problem
 
 AquaSync has formed the following hypotheses: 
 
-```javascript
-Employees may not be satisfied with their salaries.
-```
-```javascript
-Employees are not receiving enough training.
-```
-```javascript
-Employees are travelling too much.
-```
+- Employees may not be satisfied with their salaries.
+- Employees are not receiving enough training.
+- Employees are travelling too much.
 
 ### 3. Assess assumptions on which statistical inference will be based
 
@@ -38,6 +30,7 @@ if (isAwesome){
 
 - Why does AquaSync have so many more Sales Executives than Sales Representatives?
 - To gain more insights into the performance reviews, add components for managers to assess employees on company values such as innovation, teamwork, etc.
+- Also add components to employee surveys.
 
 For more details, see the [dashboard](https://guides.github.com/features/mastering-markdown/) on Power BI.
 
