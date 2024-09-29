@@ -1,15 +1,19 @@
 ## HR Employee Dashboard
 
-**Project description:** AquaSync is a software as a service company that regularly assesses the performance and outlook of its employees. The goal of this project is to increase employee retention by combining performance assessment results with basic employee data to reveal actionable insights.
+**Project description:** AquaSync is a fictional software-as-a-service (SaaS) business designed to streamline water management for municipalities, agricultural sectors, and industrial users. The company wishes to increase employee job satisfaction and employee retention. This project reveals actionable insights through data manipulation and data visualization - using Power Query and Power BI to combine performance assessment results with basic employee data.
 
 ### 1. Suggest hypotheses about the causes of observed phenomena
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+AquaSync has formed the following hypotheses: 
 
 ```javascript
-if (isAwesome){
-  return true
-}
+Employees may not be satisfied with their salaries.
+```
+```javascript
+Employees are not receiving enough training.
+```
+```javascript
+Employees are travelling too much.
 ```
 
 ### 2. Assess assumptions on which statistical inference will be based
@@ -27,6 +31,6 @@ if (isAwesome){
 ### 4. Provide a basis for further data collection through surveys or experiments
 
 - Why does AquaSync have so many more Sales Executives than Sales Representatives?
-- Add components to employee surveys that correspond to company values.
+- To gain more insights into the performance reviews, add components for managers to assess employees on company values such as innovation, teamwork, etc.
 
 For more details, see the [dashboard](https://guides.github.com/features/mastering-markdown/) on Power BI.
