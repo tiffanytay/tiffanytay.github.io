@@ -9,10 +9,9 @@
 ### 2. Suggest hypotheses about the causes of problem
 
 AquaSync has formed the following hypotheses: 
-
-- Employees may not be satisfied with their salaries.
-- Employees are not receiving enough training.
-- Employees are travelling too much.
+- [ ] Employees may not be satisfied with their salaries.
+- [ ] Employees are not receiving enough training.
+- [ ] Employees are travelling too much.
 
 ### 3. Assess assumptions on which statistical inference will be based
 
@@ -24,17 +23,20 @@ if (isAwesome){
 
 ### 4. Analyze the dataset to validate hypotheses and form solution strategy
 
-For more details, see the [dashboard](https://guides.github.com/features/mastering-markdown/) on Power BI.
+For more details, see the dashboard embedded below:
+[!TIP]
+Open the dashboard in full-screen with the button at the bottom-right corner of the embedded dashboard.
 
 <img src="images/hr-home.png?raw=true"/>
 <iframe title="HR Employee Dashboard" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMmRiZWQ2ZDctZGUwNi00MThhLWFiMTYtOThmZWYyNDhmY2FjIiwidCI6Ijc5NmIxZGQ2LWQzNmQtNGQwOC05YTMzLWI1MGZkOTUwZTY5ZCIsImMiOjZ9&embedImagePlaceholder=true" frameborder="0" allowFullScreen="true"></iframe>
 
 ### 5. Provide a basis for further data collection through surveys or experiments
 
-- Why does AquaSync have so many more Sales Executives than Sales Representatives?
-- To gain more insights into the performance reviews, add components for managers to assess employees on company values such as innovation, teamwork, etc.
-- Also add components to employee surveys.
-- Conduct a competitive analysis.
+- [ ] Why does AquaSync have so many more Sales Executives than Sales Representatives?
+- [ ] To gain more insights into the performance reviews, add components for managers to assess employees on company values such as innovation, teamwork, etc.
+- [ ] Also add components to employee surveys.
+- [ ] Conduct a competitive analysis.
+- [ ] Conduct exit surveys or collect data from exit interviews.
 
 
 ---
