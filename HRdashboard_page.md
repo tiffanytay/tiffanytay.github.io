@@ -1,10 +1,10 @@
 ## HR Employee Dashboard
 
-**Project description:**  This project reveals actionable insights through data manipulation and data visualization - using Power Query and Power BI to combine performance assessment results with basic employee data.
+**Project description:**  Using Power Query and Power BI, I combined performance assessment results and employee survey results with basic employee data for AquaSync, a fictional company, to uncover how the company may increase employee retention.
 
 ### 1. Understand the problem
 
-**Problem statement:** AquaSync is a fictional software-as-a-service (SaaS) business designed to streamline water management for municipalities, agricultural sectors, and industrial users. The company wishes to increase employee job satisfaction and employee retention.
+**Problem statement:** AquaSync is a fictional software-as-a-service (SaaS) business designed to streamline water management for municipalities, agricultural sectors, and industrial users. The company's Human Resources (HR) has noticed more employees leaving the company and would like to know how they could address this.
 
 ### 2. Suggest hypotheses about the causes of problem
 
@@ -33,6 +33,7 @@ For more details, see the [dashboard](https://guides.github.com/features/masteri
 - Why does AquaSync have so many more Sales Executives than Sales Representatives?
 - To gain more insights into the performance reviews, add components for managers to assess employees on company values such as innovation, teamwork, etc.
 - Also add components to employee surveys.
+- Conduct a competitive analysis.
 
 
 ---
