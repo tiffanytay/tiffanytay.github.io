@@ -24,6 +24,8 @@ if (isAwesome){
 
 ### 4. Analyze the dataset to validate hypotheses and form solution strategy
 
+For more details, see the [dashboard](https://guides.github.com/features/mastering-markdown/) on Power BI.
+
 <img src="images/hr-home.png?raw=true"/>
 
 ### 5. Provide a basis for further data collection through surveys or experiments
@@ -32,7 +34,6 @@ if (isAwesome){
 - To gain more insights into the performance reviews, add components for managers to assess employees on company values such as innovation, teamwork, etc.
 - Also add components to employee surveys.
 
-For more details, see the [dashboard](https://guides.github.com/features/mastering-markdown/) on Power BI.
 
 ---
 
