@@ -45,6 +45,6 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### References
 
 [1] 'SalesPipeline Conversion with Logistic Regression' dataset via Kaggle: https://www.kaggle.com/code/gauravduttakiit/salespipeline-conversion-with-logistic-regression/input (Apache 2.0 Open Source License)
-<br>[2] Dummy company logo via Reddit: https://www.reddit.com/r/logodesign/comments/15q816y/logo_for_a_fake_water_dispenser_company_that/
+<br>[2] [Dummy company logo designed by Freepik](https://www.freepik.com/free-vector/gradient-data-logo-template_21077418.htm#fromView=search&page=1&position=9&uuid=15dba7ed-bbc5-4bce-b82c-0b07925d0f70) (Free License)
 <br>[3] Icons: https://v1.heroicons.com/ (MIT License)
-<br>[4] Home photo designed by Freepik: https://www.freepik.com/free-photo/fresh-water-texture-background-transparent-liquid_18830892.htm#query=Water&position=0&from_view=keyword&track=ais_hybrid&uuid=933bd21a-0649-441c-805a-219a79098ac6 (Free License)
+<br>[4] [Home page background photo designed by Freepik](https://www.freepik.com/free-photo/beautiful-sky-with-mountains-distance_978432.htm#fromView=search&page=1&position=23&uuid=20a20986-f0d8-4847-8519-59d1e4bbf6c3) (Free License)
