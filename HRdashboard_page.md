@@ -24,10 +24,9 @@ if (isAwesome){
 ### 4. Analyze the dataset to validate hypotheses and form solution strategy
 
 For more details, see the dashboard embedded below:
-[!TIP]
-Open the dashboard in full-screen with the button at the bottom-right corner of the embedded dashboard.
+> [!TIP]
+> Open the dashboard in full-screen with the button at the bottom-right corner of the embedded dashboard.
 
-<img src="images/hr-home.png?raw=true"/>
 <iframe title="HR Employee Dashboard" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMmRiZWQ2ZDctZGUwNi00MThhLWFiMTYtOThmZWYyNDhmY2FjIiwidCI6Ijc5NmIxZGQ2LWQzNmQtNGQwOC05YTMzLWI1MGZkOTUwZTY5ZCIsImMiOjZ9&embedImagePlaceholder=true" frameborder="0" allowFullScreen="true"></iframe>
 
 ### 5. Provide a basis for further data collection through surveys or experiments
