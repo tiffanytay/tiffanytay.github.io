@@ -27,6 +27,7 @@ if (isAwesome){
 For more details, see the [dashboard](https://guides.github.com/features/mastering-markdown/) on Power BI.
 
 <img src="images/hr-home.png?raw=true"/>
+<iframe title="HR Employee Dashboard" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMmRiZWQ2ZDctZGUwNi00MThhLWFiMTYtOThmZWYyNDhmY2FjIiwidCI6Ijc5NmIxZGQ2LWQzNmQtNGQwOC05YTMzLWI1MGZkOTUwZTY5ZCIsImMiOjZ9&embedImagePlaceholder=true" frameborder="0" allowFullScreen="true"></iframe>
 
 ### 5. Provide a basis for further data collection through surveys or experiments
 
