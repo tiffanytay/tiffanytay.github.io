@@ -23,11 +23,23 @@ if (isAwesome){
 
 ### 4. Analyze the dataset to validate hypotheses and form solution strategy
 
-For more details, see the dashboard embedded below:
+In short, more data is needed to validate all the hypotheses; however, it is clear that employees are not receiving enough training.
+
+For more details, see the dashboard embedded below and discussion per hypothesis underneath the dashboard:
 > [!TIP]
 > Open the dashboard in full-screen with the button at the bottom-right corner of the embedded dashboard.
 
 <iframe title="HR Employee Dashboard" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMmRiZWQ2ZDctZGUwNi00MThhLWFiMTYtOThmZWYyNDhmY2FjIiwidCI6Ijc5NmIxZGQ2LWQzNmQtNGQwOC05YTMzLWI1MGZkOTUwZTY5ZCIsImMiOjZ9&embedImagePlaceholder=true" frameborder="0" allowFullScreen="true"></iframe>
+
+- [ ] Employees may not be satisfied with their salaries.
+While this may be true for some employees, there is no data to back this hypothesis. Amongst employees that rated their job satisfaction at very disatisfied or disatisfied, their salaries range from $26k to $462k. A more direct question on this topic could be added to future employee surveys.
+  
+- [X] Employees are not receiving enough training.
+Employee survey results support this hypothesis.
+    
+- [ ] Employees are travelling too much.
+
+
 
 ### 5. Provide a basis for further data collection through surveys or experiments
 
