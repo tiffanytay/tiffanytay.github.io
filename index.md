@@ -12,6 +12,11 @@ I value beautiful design and efficiency. When not working, I love to draw inspir
 
 ### Portfolio 
 
+[A Snapshot of NYC Dogs](/a_snapshot_of_nyc_dogs)
+<img src="images/hr-home.png?raw=true"/>
+
+---
+
 [HR Employee Dashboard](/HRdashboard_page)
 <img src="images/hr-home.png?raw=true"/>
 
