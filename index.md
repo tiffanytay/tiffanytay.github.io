@@ -6,7 +6,7 @@ I am currently a Tax Technology Manager at PwC, where I lead a tax reporting mod
 
 Before PwC, I graduated from the University of Texas at Austin with both a bachelors and masters degree in accounting. My credentials include a CPA license in NY and TX, as well as a culinary certification from the Natural Gourmet Institute in NYC.
 
-I value beautiful design and efficiency. When not working, I love to draw inspiration from travel and the wonderfully simple nature of dogs.
+I value beautiful design and efficiency. When not working, I love to draw inspiration from travel, companionship from dogs, trying new food and challenging puzzles.
 
 ---
 
