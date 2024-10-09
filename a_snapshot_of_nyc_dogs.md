@@ -6,7 +6,7 @@
 
 Thanks to NYC Open Data's mission to have 'open data for all', it was simple to procure datasets on NYC dog licenses, dog parks, dog waste receptacles and--most surprising of all--squirrels.  I sourced images from Google searches and created a color palette for the data visualizations inspired by the images.
 
-Find dataset on zip codes and neighborhoods/boroughs
+Find dataset on zip codes and neighborhoods/boroughs.  In the end, I used 5 CSV files in this project.
 
 ### 2. Data cleansing / transformation
 
