@@ -8,7 +8,7 @@ Thanks to NYC Open Data's mission to have 'open data for all', it was simple to 
 
 ### 2. Data cleansing / transformation
 
-NYC Open Data's datasets are largely ready-to-consume; however, I did have to cleanse the dog license dataset of invalid values in the [AnimalBirthYear] column. 
+NYC Open Data's datasets are largely ready-to-consume; however, I did have to cleanse the dog license dataset of invalid values in the [AnimalBirthYear] column and switch [ZipCode] data type to text to prevent aggregation. 
 
 ### 3. Data exploration / analysis to form hypotheses
 
