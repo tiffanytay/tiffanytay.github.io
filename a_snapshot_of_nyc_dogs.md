@@ -11,6 +11,9 @@ Highlights of surprising insights include:
 
 <iframe title="A Snapshot of NYC Dogs" width="600" height="486" src="https://app.powerbi.com/view?r=eyJrIjoiOTc0YTE3NmYtNDE4ZC00ZWFkLTgwZjctODNmMmY5MzZmNmNjIiwidCI6Ijc5NmIxZGQ2LWQzNmQtNGQwOC05YTMzLWI1MGZkOTUwZTY5ZCIsImMiOjZ9&embedImagePlaceholder=true" frameborder="0" allowFullScreen="true"></iframe>
 
+
+---
+
 ### 1. Data collection
 
 Thanks to NYC Open Data's mission to have 'open data for all', it was simple to procure datasets on NYC dog licenses, dog parks, dog waste receptacles and--most surprising of all--squirrels.  During the data exploration phase, I discovered that I also needed a dataset mapping zip codes to neighborhoods/boroughs.  
