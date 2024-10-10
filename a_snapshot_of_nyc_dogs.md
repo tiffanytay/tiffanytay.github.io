@@ -11,7 +11,8 @@ Highlights of surprising insights include:
 
 <iframe title="A Snapshot of NYC Dogs" width="600" height="486" src="https://app.powerbi.com/view?r=eyJrIjoiOTc0YTE3NmYtNDE4ZC00ZWFkLTgwZjctODNmMmY5MzZmNmNjIiwidCI6Ijc5NmIxZGQ2LWQzNmQtNGQwOC05YTMzLWI1MGZkOTUwZTY5ZCIsImMiOjZ9&embedImagePlaceholder=true" frameborder="0" allowFullScreen="true"></iframe>
 
-
+<br>
+<br>
 ---
 
 ### 1. Data collection
@@ -47,9 +48,13 @@ While I would have loved to include a map visual plotting counts of dog licenses
 
 <img src="images/infotooltipscreenshot.png?raw=true"/>
 
-### 5. Provide a basis for further data collection
+### 5. Iteration
 
-So many questions remain unanswered
+To continue to enhance this dashboard, I propose the following:
+- Update all datasets to 2024 data.
+- Compile list of desired data points, compare against current dataset fields and make a plan on how to close data gaps (e.g., make fields mandatory in data collection forms).
+- Create a drill-through page by borough and/or neighborhood.
+- Consider whether to bring in animal bite dataset.
 
 ---
 
