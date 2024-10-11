@@ -1,6 +1,8 @@
-## A Snapshot of NYC Dogs
+## Contoso
 
-**Executive Summary:** This project taps into my curiosity about all the dogs that call New York City (NYC) home. What kind of dogs are they?  Where do they live?  Where do they play?  
+**Executive Summary:** Contoso Corporation is a fictional but representative global manufacturing conglomerate with its headquarters in Paris. The company deployed Microsoft 365 for enterprise and addressed major design decisions and implementation details for networking, identity, Windows 11 Enterprise, Microsoft 365 Apps for enterprise, mobile device management, information protection, and security.
+
+The company's overall goal for Microsoft 365 for enterprise is to accelerate its digital transformation by using cloud services to bring together its employees, partners, data, and processes to create customer value and maintain its competitive advantage in a digital-first world.  
 
 Steps taken with primary tools Power Query and Power BI are summarized below.
 
