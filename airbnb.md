@@ -60,7 +60,7 @@ To continue to enhance this dashboard, I propose the following:
 
 ### References
 
-[1] Datasets from [NYC Open Data](https://opendata.cityofnewyork.us/) and [Github](https://github.com/erikgregorywebb/nyc-housing/blob/master/Data/nyc-zip-codes.csv)
+[1] Datasets from [Inside Airbnb]([https://opendata.cityofnewyork.us/](https://insideairbnb.com/new-york-city/)
 <br>[2] [Cover image](https://graymalin.com/products/picnic-party-central-park)
 <br>[3] [Dashboard panorama image](https://www.shutterstock.com/image-vector/people-walk-play-dogs-city-park-2206454515)
 <br>[4] [Dashboard bird and sun images](https://designstripe.com/search/assets?style=cheerful)
