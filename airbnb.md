@@ -2,7 +2,7 @@
 
 **Executive Summary:** This project contemplates what would be an optimal competitive price for an Airbnb apartment in New York City (NYC).
 
-Steps taken with primary tools Power Query and Power BI are summarized below.
+Steps taken with primary tools **Tableau** are summarized below.
 
 Highlights of surprising insights include:
 - Despite Manhattan being the densest borough, the most popular licensed known dog breeds are medium-large dogs: Labs and Goldendoodles.
