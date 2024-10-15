@@ -13,7 +13,10 @@ I value beautiful design and efficiency. When not working, I love to draw inspir
 ### Portfolio 
 
 [A Snapshot of NYC Dogs](/a_snapshot_of_nyc_dogs)
-<img src="images/nycdogsscreenshot.png?raw=true"/>
+<br><img src="images/nycdogsscreenshot.png?raw=true"/>
 
 ---
+
+[Airbnb Competitive Pricing Analysis - NYC](/airbnb)
+<br><img src="images/nycdogsscreenshot.png?raw=true"/>
 
