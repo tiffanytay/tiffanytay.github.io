@@ -40,8 +40,6 @@ NYC Open Data datasets are largely ready-to-consume; however, I did have to do s
 
 **Storytelling -** With the visuals drafted in the previous phase, I considered what made sense to show next to each other on a dashboard and what would fit on the page.  My process also includes considering which data points are lower priority and could be moved into a less prominent part of the dashboard.  I added slicers that I would expect users to want.
 
-While I would have loved to include a map visual plotting counts of dog licenses or dog runs, the loss of performance on my 5-year-old home computer and cost of calling map APIs for 600k records outweighed the potential benefit.
-
 <img src="images/nycdogsscreenshot.png?raw=true"/>
 
 **Finishing touches -** I layered on small image objects to complete the dashboard design and added info tooltips to provide users with more context into the data.  Finally, I programmed in a date/time stamp that dynamically updates whenever the dashboard is refreshed.
@@ -55,6 +53,7 @@ To continue to enhance this dashboard, I propose the following:
 - Compile list of desired data points, compare against current dataset fields and make a plan on how to close data gaps (e.g., make fields mandatory in data collection forms).
 - Create a drill-through page by borough and/or neighborhood.
 - Consider whether to bring in animal bite dataset.
+- Add a map visual.
 
 ---
 
