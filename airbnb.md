@@ -61,6 +61,6 @@ To continue to enhance this dashboard, I propose the following:
 ### References
 
 [1] Datasets from [Inside Airbnb]([https://opendata.cityofnewyork.us/](https://insideairbnb.com/new-york-city/)
-<br>[2] [Cover image](https://graymalin.com/products/picnic-party-central-park)
-<br>[3] [Dashboard panorama image](https://www.shutterstock.com/image-vector/people-walk-play-dogs-city-park-2206454515)
+<br>[2] Suitcase image designed by [Freepik](https://github.com/user-attachments/assets/516b6759-d6d8-41e2-a0d6-f87a09904269)
+<br>[3] Travel sticker images designed by [Freepik](https://www.freepik.com/free-vector/travel-sticker-set_3731900.htm#fromView=search&page=1&position=4&uuid=906bbde3-dffe-47f5-9a5c-3209741d8b38)
 <br>[4] [Dashboard bird and sun images](https://designstripe.com/search/assets?style=cheerful)
