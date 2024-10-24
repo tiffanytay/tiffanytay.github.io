@@ -18,6 +18,6 @@ I value beautiful design and efficiency. When not working, I love to draw inspir
 ---
 
 [Airbnb Competitive Pricing Analysis - NYC](/airbnb)
-<br>[test](/airbnbApp.js)
+<br>[test](/airbnbIndex.html)
 <br><img src="images/airbnb_screenshot.png?raw=true"/>
 
