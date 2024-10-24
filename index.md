@@ -12,6 +12,8 @@ I value beautiful design and efficiency. When not working, I love to draw inspir
 
 ### Portfolio 
 
+_Click links below to access executive summary and embedded visuals per project._
+
 [A Snapshot of NYC Dogs](/a_snapshot_of_nyc_dogs)
 <br><img src="images/nycdogsscreenshot.png?raw=true"/>
 
