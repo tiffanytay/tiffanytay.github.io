@@ -1,8 +1,8 @@
-## Airbnb Competitve Pricing Analysis - NYC
+## Airbnb Pricing Analysis in NYC
 
-**Executive Summary:** This project contemplates what would be a competitive price to maximize profitability for an entire Airbnb apartment in Manhattan, New York City (NYC).
+**Executive Summary:** This project contemplates what would be a competitive price to maximize profitability for an entire Airbnb apartment in New York City (NYC), assuming the desired pricing strategy is luxury.
 
-Using **Tableau** and data from [Inside Airbnb](https://insideairbnb.com/new-york-city/), I analyzed relevant data points available like property zip codes, prices and ratings to conclude that an initial price of around $300 per night is competitive for Manhattan.   
+Using **Tableau**, I juxtaposed key data points from [Inside Airbnb](https://insideairbnb.com/new-york-city/) onto an NYC map to condlue that an initial price of around $300 per night would be competitive for Manhattan.   
 
 After establishing a solid rating with many reviews (rated at 91 or above to beat the average rating for Manhattan apartments), I may be able to raise the price to $350-$400, to position my property as an in-demand luxury property with a proven track record.  Furthermore, adding a third bed to the apartment would be more profitable after around 11 nights - assuming that:
 [1] a new bed is $1,000;
@@ -58,5 +58,4 @@ To continue to enhance this dashboard, I propose the following:
 ### References
 
 [1] Datasets from [Inside Airbnb](https://insideairbnb.com/new-york-city/), found via Tableau's [blog post](https://www.tableau.com/blog/how-to-find-sources-for-public-data-sets) on public data sets
-<br>[2] Suitcase image designed by [Freepik](https://github.com/user-attachments/assets/516b6759-d6d8-41e2-a0d6-f87a09904269)
-<br>[3] Travel sticker images designed by [Freepik](https://www.freepik.com/free-vector/travel-sticker-set_3731900.htm#fromView=search&page=1&position=4&uuid=906bbde3-dffe-47f5-9a5c-3209741d8b38)
+<br>[2] Filter icon by Adrian Adam from [Noun Project](https://thenounproject.com/browse/icons/term/filter/) (CC BY 3.0)
