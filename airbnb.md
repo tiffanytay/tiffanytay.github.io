@@ -1,13 +1,10 @@
 ## Airbnb Pricing Analysis in NYC
 
-**Executive Summary:** This project contemplates what would be a competitive price to maximize profitability for an entire Airbnb apartment in New York City (NYC), assuming the desired pricing strategy is luxury.
+**Executive Summary:** This project identifies a competitive price to maximize profitability for an entire Airbnb apartment in New York City (NYC), assuming the desired pricing strategy is luxury and that the property holds a rental registration with the city.
 
-Using **Tableau**, I juxtaposed key data points from [Inside Airbnb](https://insideairbnb.com/new-york-city/) onto an NYC map to condlue that an initial price of around $300 per night would be competitive for Manhattan.   
+Using **Tableau**, I juxtaposed key data points from [Inside Airbnb](https://insideairbnb.com/new-york-city/) onto an NYC map.  After filtering to find more direct comparables with the same number of bedrooms and bathrooms, I conclude that an initial price of around $500 per night would be competitive for Manhattan.   
 
-After establishing a solid rating with many reviews (rated at 91 or above to beat the average rating for Manhattan apartments), I may be able to raise the price to $350-$400, to position my property as an in-demand luxury property with a proven track record.  Furthermore, adding a third bed to the apartment would be more profitable after around 11 nights - assuming that:
-[1] a new bed is $1,000;
-<br>[2] price is increased by $100 (as justified by the increase in average price from $305 to $390); and 
-<br>[3] Airbnb's fee is 3%.
+After establishing a solid rating with many reviews (rated at 4.7 or above to beat the average rating for Manhattan apartments), I may be able to raise the price to $550-$600, to position my property as an in-demand luxury property with a proven track record.
 
 Finally, I did some light front-end development with **HTML** and **Javascript** to embed the Tableau dashboard on this Github site.
 
@@ -58,4 +55,4 @@ To continue to enhance this dashboard, I propose the following:
 ### References
 
 [1] Datasets from [Inside Airbnb](https://insideairbnb.com/new-york-city/), found via Tableau's [blog post](https://www.tableau.com/blog/how-to-find-sources-for-public-data-sets) on public data sets
-<br>[2] Filter icon by Adrian Adam from [Noun Project](https://thenounproject.com/browse/icons/term/filter/) (CC BY 3.0)
+<br>[2] 
