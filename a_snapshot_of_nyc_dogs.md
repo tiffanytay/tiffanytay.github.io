@@ -8,6 +8,8 @@
 - Uncovered surprising trends, such as the popularity of medium-large breeds in Manhattan and the concentration of dogs in Northwest Brooklyn.
 - Utilized GenAI (Perplexity AI) to draft the initial Power BI theme file, demonstrating proficiency in leveraging AI tools for data visualization.
 
+---
+
 **Technical Skills Demonstrated:**
 - Data Cleaning and Transformation: Power Query
 - Data Visualization: Power BI, custom theme creation
@@ -27,6 +29,8 @@
 - Implement map visualizations for geographic insights
 
 **Impact:** This project showcases the ability to synthesize multiple data sources into a cohesive, interactive dashboard, providing valuable insights for urban planning, pet-related businesses, and community services in NYC.
+
+---
 
 <iframe title="A Snapshot of NYC Dogs" width="600" height="486" src="https://app.powerbi.com/view?r=eyJrIjoiOTc0YTE3NmYtNDE4ZC00ZWFkLTgwZjctODNmMmY5MzZmNmNjIiwidCI6Ijc5NmIxZGQ2LWQzNmQtNGQwOC05YTMzLWI1MGZkOTUwZTY5ZCIsImMiOjZ9&embedImagePlaceholder=true" frameborder="0" allowFullScreen="true"></iframe>
 
