@@ -1,12 +1,12 @@
 ## Airbnb Pricing Analysis in NYC
 
-**Executive Summary:** This project identifies a competitive price under a luxury pricing strategy to maximize profitability for an entire Airbnb apartment in New York City (NYC).
+**Project Overview:** Developed a data-driven pricing strategy for a luxury Airbnb apartment in New York City to maximize profitability.
 
-Using **Tableau**, I juxtaposed key data points from [Inside Airbnb](https://insideairbnb.com/new-york-city/) onto an NYC map.  Using the dashboard filters I created, I searched for comparable properties to determine that an initial price of around $500 per night would be competitive for a 2 bedroom, 2 bathroom apartment in the Upper West Side neighborhood - about $50 less than the average.   
-
-After establishing a solid rating with many reviews (rated at 4.7 or above to beat the average rating for comparables), I may be able to raise the price to $550-$600, to position my property as an in-demand luxury property with a proven track record.
-
-Finally, I did some light front-end development with **HTML** and **Javascript** to embed the Tableau dashboard on this Github site.
+**Key Accomplishments:**
+- Leveraged Tableau to create an interactive dashboard using Inside Airbnb data, enabling efficient analysis of market trends and competitor pricing.
+- Conducted comparative analysis to determine an optimal initial price point of $500/night for a 2BR/2BA apartment in the Upper West Side, undercutting average competitor prices by $50.
+- Proposed a strategic price increase to $550-$600 after establishing a strong rating (4.7+), positioning the property as a premium offering.
+- Integrated the Tableau dashboard into a GitHub-hosted website using HTML and JavaScript, demonstrating full-stack capabilities.
 
 [See embedded dashboard](/airbnbIndex.html)
 
@@ -14,35 +14,17 @@ Finally, I did some light front-end development with **HTML** and **Javascript**
 
 ---
 
-### 1. Key assumptions
+**Technical Skills Demonstrated:**
+- Data Analysis: Market research, competitive pricing analysis
+- Data Visualization: Tableau dashboard creation with custom filters and map integration
+- Web Development: HTML, JavaScript for dashboard embedding
+- Strategic Thinking: Luxury pricing strategy development
 
-[a] Registration was already obtained from the city for short-term stays less than 30 days.
+**Future Enhancements:**
+- Amenities analysis to identify key differentiators
+- Sentiment analysis of reviews to uncover success factors
 
-### 2. Data collection
-
-[Inside Airbnb](https://insideairbnb.com) has fairly recent data sets for Airbnb by city.  Ultimately, I used 2 CSV files in this project.
-
-### 3. Data cleansing / transformation
-
-No data cleansing was done at this time.
-
-### 4. Data exploration / analysis
-
-**Exploration -** I weighed the fields available against the data points desired to determine a competitive price.
-
-### 5. Dashboard design + Data storytelling
-
-**Design -** I opted for a dark theme with Airbnb's bright coral pink color as the accent.
-
-**Storytelling -** Location is paramount in real estate. Thus, I decided the dashboard would put maps front and center.  
-
-**Finishing touches -** I embedded the Tableau dashboard on this Github site with some HTML and Javascript code, tweaking the height of the embedded dashboard to optimize viewing.
-
-### 6. Iteration
-
-To continue to enhance this dashboard, I propose the following:
-- Parsing the 'Amenities' field to find commonalties amongst comparable properties.
-- Running sentiment analysis on reviews to learn what may make one property more successful than others.
+**Impact:** This project showcases the ability to transform raw data into actionable business strategies, combining analytical skills with market insights to drive profitability in the competitive short-term rental market.
 
 ---
 
