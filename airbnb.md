@@ -8,8 +8,6 @@
 - Proposed a strategic price increase to $550-$600 after establishing a strong rating (4.7+), positioning the property as a premium offering.
 - Integrated the Tableau dashboard into a GitHub-hosted website using HTML and JavaScript, demonstrating full-stack capabilities.
 
----
-
 **Technical Skills Demonstrated:**
 - Data Analysis: Market research, competitive pricing analysis
 - Data Visualization: Tableau dashboard creation with custom filters and map integration
@@ -23,6 +21,8 @@
 **Impact:** This project showcases the ability to transform raw data into actionable business strategies, combining analytical skills with market insights to drive profitability in the competitive short-term rental market.
 
 ---
+
+### Interactive Dashboard
 
 [See embedded dashboard](/airbnbIndex.html)
 
