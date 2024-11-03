@@ -10,6 +10,8 @@ Finally, I did some light front-end development with **HTML** and **Javascript**
 
 [See dashboard](/airbnbIndex.html)
 
+<img src="images/airbnb_screenshot_UWS.png?raw=true"/>
+
 <br>
 <br>
 ---
@@ -30,22 +32,21 @@ No data cleansing was done at this time.
 
 ### 4. Data exploration / analysis
 
-**Exploration -** I weighed the fields available against the desired data points to determine a competitive price.
+**Exploration -** I weighed the fields available against the data points desired to determine a competitive price.
 
 ### 4. Dashboard design + Data storytelling
 
 **Design -** I opted for a dark theme with Airbnb's bright coral pink color as the accent.
 
-**Storytelling -** With the visuals drafted in the previous phase, I considered what made sense to show next to each other on a dashboard and what would fit on the page.  My process also includes considering which data points are lower priority and could be moved into a less prominent part of the dashboard.  I added slicers that I would expect users to want.
-
-<img src="images/nycdogsscreenshot.png?raw=true"/>
+**Storytelling -** Location is paramount in real estate. Thus, I decided the dashboard would put maps front and center.  
 
 **Finishing touches -** I embedded the Tableau dashboard on this Github site with some HTML and Javascript code, tweaking the height of the embedded dashboard to optimize viewing.
 
 ### 5. Iteration
 
 To continue to enhance this dashboard, I propose the following:
-- Scraping rating review language from Airbnb for NYC properties and running sentiment analysis to learn what may make one property more successful than others.
+- Parsing the 'Amenities' field to find commonalties amongst comparable properties.
+- Running sentiment analysis on reviews to learn what may make one property more successful than others.
 
 ---
 
