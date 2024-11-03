@@ -20,6 +20,5 @@ _Click links below to access executive summary and embedded visuals per project.
 ---
 
 [Airbnb Competitive Pricing Analysis - NYC](/airbnb)
-<br>[test](/airbnbIndex.html)
 <br><img src="images/airbnb_screenshot.png?raw=true"/>
 
