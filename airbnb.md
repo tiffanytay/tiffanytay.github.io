@@ -49,4 +49,3 @@ To continue to enhance this dashboard, I propose the following:
 ### References
 
 [1] Datasets from [Inside Airbnb](https://insideairbnb.com/new-york-city/), found via Tableau's [blog post](https://www.tableau.com/blog/how-to-find-sources-for-public-data-sets) on public data sets
-<br>[2] 
