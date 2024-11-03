@@ -30,7 +30,7 @@ No data cleansing was done at this time.
 
 **Exploration -** I weighed the fields available against the data points desired to determine a competitive price.
 
-### 4. Dashboard design + Data storytelling
+### 5. Dashboard design + Data storytelling
 
 **Design -** I opted for a dark theme with Airbnb's bright coral pink color as the accent.
 
@@ -38,7 +38,7 @@ No data cleansing was done at this time.
 
 **Finishing touches -** I embedded the Tableau dashboard on this Github site with some HTML and Javascript code, tweaking the height of the embedded dashboard to optimize viewing.
 
-### 5. Iteration
+### 6. Iteration
 
 To continue to enhance this dashboard, I propose the following:
 - Parsing the 'Amenities' field to find commonalties amongst comparable properties.
