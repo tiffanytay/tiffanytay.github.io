@@ -8,12 +8,10 @@ After establishing a solid rating with many reviews (rated at 4.7 or above to be
 
 Finally, I did some light front-end development with **HTML** and **Javascript** to embed the Tableau dashboard on this Github site.
 
-[See dashboard](/airbnbIndex.html)
+[See embedded dashboard](/airbnbIndex.html)
 
 <img src="images/airbnb_screenshot_UWS.png?raw=true"/>
 
-<br>
-<br>
 ---
 
 ### 1. Key assumptions
@@ -22,9 +20,7 @@ Finally, I did some light front-end development with **HTML** and **Javascript**
 
 ### 2. Data collection
 
-[Inside Airbnb](https://insideairbnb.com) has fairly recent data sets for Airbnb by city.
-
-Ultimately, I used 2 CSV files in this project.
+[Inside Airbnb](https://insideairbnb.com) has fairly recent data sets for Airbnb by city.  Ultimately, I used 2 CSV files in this project.
 
 ### 3. Data cleansing / transformation
 
