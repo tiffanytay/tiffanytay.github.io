@@ -22,9 +22,18 @@
 
 ---
 
-### Interactive Dashboard
+### SQL Queries
 
-[See SQL queries](/airbnbIndex.html)
+```
+SELECT YEAR(so.ModifiedDate) AS Year, ps.Name AS ProductCategory, SUM(LineTotal) AS SalesTotal
+FROM [Sales].SalesOrderDetail AS so
+JOIN Production.Product AS p
+ON so.ProductID = p.ProductID
+JOIN Production.ProductSubcategory AS ps
+ON p.ProductSubcategoryID = ps.ProductSubcategoryID
+GROUP BY YEAR(so.ModifiedDate), ps.Name
+ORDER BY Year DESC, SalesTotal DESC;
+```
 
 ---
 
