@@ -25,13 +25,17 @@
 ### SQL Queries
 
 ```
+--Specify columns to output
 SELECT YEAR(so.ModifiedDate) AS Year, ps.Name AS ProductCategory, SUM(LineTotal) AS SalesTotal
+--Specify and join 3 source tables
 FROM [Sales].SalesOrderDetail AS so
 JOIN Production.Product AS p
 ON so.ProductID = p.ProductID
 JOIN Production.ProductSubcategory AS ps
 ON p.ProductSubcategoryID = ps.ProductSubcategoryID
+--Group records by year and product name
 GROUP BY YEAR(so.ModifiedDate), ps.Name
+--Sort results by descending order of Year, then Sales
 ORDER BY Year DESC, SalesTotal DESC;
 ```
 
