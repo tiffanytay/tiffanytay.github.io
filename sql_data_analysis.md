@@ -1,4 +1,4 @@
-## SQL Data Analysis
+## SQL Data Exploration + Power BI Data Visualization
 
 **Project Overview:** Developed a data-driven pricing strategy for a luxury Airbnb apartment in New York City to maximize profitability.
 
@@ -43,4 +43,4 @@ ORDER BY Year DESC, SalesTotal DESC;
 
 ### References
 
-[1] Datasets from [Inside Airbnb](https://insideairbnb.com/new-york-city/), found via Tableau's [blog post](https://www.tableau.com/blog/how-to-find-sources-for-public-data-sets) on public data sets
+[1] AdventureWorks database from [Microsoft](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms) 
