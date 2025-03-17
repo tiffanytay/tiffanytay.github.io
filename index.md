@@ -18,13 +18,13 @@ _Click links below to access executive summary and embedded visuals per project.
 <br>
 <br><img src="images/realestateimage.jpg?raw=true"/>
 
----
+
 
 [A Snapshot of NYC Dogs](/projects/a_snapshot_of_nyc_dogs)
-<br>
+<br>**Project Overview:** Analyzed multiple datasets to create a comprehensive visualization of dog ownership and infrastructure in New York City using Power Query and Power BI.
 <br><img src="images/nycdogsscreenshot.png?raw=true"/>
 
----
+
 
 [Airbnb Competitive Pricing Analysis - NYC](/projects/airbnb)
 <br>**Project Overview:** Analyzed multiple datasets to create a comprehensive visualization of dog ownership and infrastructure in New York City using Power Query and Power BI.
