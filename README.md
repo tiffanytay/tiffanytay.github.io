@@ -4,8 +4,9 @@
 
 ### In a Nutshell
 
-- Analytics + Process Optimization Specialist
-- 15+ years of experience in consulting, compliance, and data analytics
+- 📊 Analytics + Process Optimization Specialist
+- 💼 15+ years of experience in consulting, compliance, and data analytics
+- 🌎 Based in the United States
 
 ### Bio
 
@@ -17,13 +18,15 @@ I specialize in data storytelling, process optimization, and cross-functional co
 
 Outside of work, I find inspiration in travel, puzzles, and culinary adventures—creativity that fuels my problem-solving mindset. I’m always eager to connect with like-minded professionals who share my passion for leveraging data to make a difference. 
 
-Let’s connect—I’d love to explore how we can turn your data into your greatest asset.
 
 ### Skills
 
 - Data Viz: Power BI, Tableau
 - Data Analytics: Alteryx, Power Query, Excel, VBA, DAX, Gen AI (ChatGPT, Perplexity, etc.), Pendo, Python, SQL
 
+
 ### Contact Info
 
-tiffany.tay@gmail.com
+Let’s connect — I’d love to explore how we can turn your data into your greatest asset.
+
+[tiffany.tay@gmail.com](mailto:tiffany.tay@gmail.com)
