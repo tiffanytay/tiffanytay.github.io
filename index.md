@@ -25,5 +25,6 @@ _Click links below to access executive summary and embedded visuals per project.
 ---
 
 [Airbnb Competitive Pricing Analysis - NYC](/projects/airbnb)
+Project Overview: Analyzed multiple datasets to create a comprehensive visualization of dog ownership and infrastructure in New York City using Power Query and Power BI.
 <br><img src="images/airbnb_screenshot.png?raw=true"/>
 
