@@ -29,7 +29,7 @@
 ### Interactive Prediction Tool
 
 [See code](/projects/real_estate.ipynb)
-[See tool](/__)
+<br>[See tool](/__)
 
 <img src="images/airbnb_screenshot_UWS.png?raw=true"/>
 
