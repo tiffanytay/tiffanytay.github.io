@@ -38,4 +38,4 @@
 ### References
 
 [1] Dataset from [Kaggle Real Estate](https://www.kaggle.com/datasets/quantbruce/real-estate-price-prediction?resource=download)
-[2] Image generated from [Google Gemini](https://gemini.google.com)
+<br>[2] Cover image on home page generated from [Google Gemini](https://gemini.google.com)
