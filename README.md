@@ -1,23 +1,29 @@
-## About This Portfolio
+## Welcome to Tiffany Tay's Portfolio!
 
 ---
 
-### Introduction
+### In a Nutshell
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+- Analytics + Process Optimization Specialist
+- 15+ years of experience in consulting, compliance, and data analytics
 
-### Installation
+### Bio
 
-See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-
+I believe data has the power to transform businesses—when it’s accessible, insightful, and actionable. My mission is to bridge the gap between raw numbers and meaningful decisions by crafting data-driven solutions that empower organizations to grow smarter and faster. 
 
-### Markdown
+With over 15 years of experience in tax consulting, compliance, and analytics, I’ve honed my ability to simplify complexity and deliver results. At PwC, I led a nationwide tax reporting module, improving data accessibility for thousands of clients and saving significant time across teams. I’ve also developed dashboards that secured multi-million-dollar proposals and implemented automation strategies that saved thousands of work hours—proving that efficiency and innovation go hand in hand. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I specialize in data storytelling, process optimization, and cross-functional collaboration. Whether building strategic dashboards, streamlining workflows, or solving complex business challenges, I thrive on turning data into actionable insights that drive impact. My technical skills include expertise in Power BI, Tableau, SQL and advanced data visualization tools, paired with a passion for fostering a data-driven culture. 
 
+Outside of work, I find inspiration in travel, puzzles, and culinary adventures—creativity that fuels my problem-solving mindset. I’m always eager to connect with like-minded professionals who share my passion for leveraging data to make a difference. 
 
-___
+Let’s connect—I’d love to explore how we can turn your data into your greatest asset.
 
-### References
+### Skills
 
-[1] Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
-<br>[2] 
+- Data Viz: Power BI, Tableau
+- Data Analytics: Alteryx, Power Query, Excel, VBA, DAX, Gen AI (ChatGPT, Perplexity, etc.), Pendo, Python, SQL
+
+### Contact Info
+
+tiffany.tay@gmail.com
