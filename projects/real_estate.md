@@ -1,30 +1,34 @@
-## Airbnb Pricing Analysis in NYC
+## Real Estate Price Prediction Model
 
-**Project Overview:** Developed a data-driven pricing strategy for a luxury Airbnb apartment in New York City to maximize profitability.
+**Project Overview:** Built a machine learning model to predict property prices per unit area based on location and urban infrastructure features, using a real estate dataset from Kaggle.
 
-**Key Accomplishments:**
-- Leveraged Tableau to create an interactive dashboard using Inside Airbnb data, enabling efficient analysis of market trends and competitor pricing.
-- Conducted comparative analysis to determine an optimal initial price point of $500/night for a 2BR/2BA apartment in the Upper West Side, undercutting average competitor prices by $50.
-- Proposed a strategic price increase to $550-$600 after establishing a strong rating (4.7+), positioning the property as a premium offering.
-- Integrated the Tableau dashboard into a GitHub-hosted website using HTML and JavaScript, demonstrating full-stack capabilities.
+**Key Accomplishments:**  
+- Cleaned and analyzed a real estate dataset in Azure Data Studio (Jupyter Notebook), handling missing values and outliers.  
+- Engineered a **Ridge Regression model** achieving **0.82 R-squared** and **5.2 MAE** (mean absolute error) on test data.  
+- Identified key price drivers:  
+  - **-12% price impact** per km from public transit  
+  - **+3.8% price gain** per nearby convenience store  
+  - **-0.4% annual depreciation** from house age  
+- Deployed the model as an interactive web widget for real-time predictions.  
 
-**Technical Skills Demonstrated:**
-- Data Analysis: Market research, competitive pricing analysis
-- Data Visualization: Tableau dashboard creation with custom filters and map integration
-- Web Development: HTML, JavaScript for dashboard embedding
-- Strategic Thinking: Luxury pricing strategy development
+**Technical Skills Demonstrated:**  
+- Machine Learning: Ridge Regression, hyperparameter tuning (alpha=1.2)  
+- Data Engineering: Feature selection, outlier detection (IQR method)  
+- Tools: scikit-learn, pandas, Matplotlib, Jupyter Notebook  
+- Deployment: Model serialization (Pickle), widget integration  
 
-**Future Enhancements:**
-- Amenities analysis to identify key differentiators
-- Sentiment analysis of reviews to uncover success factors
+**Future Enhancements:**  
+- Incorporate satellite imagery for greenery/urban density scoring  
+- Expand location features with walkability indexes  
+- Test ensemble methods (Random Forest, XGBoost)  
 
-**Impact:** This project showcases the ability to transform raw data into actionable business strategies, combining analytical skills with market insights to drive profitability in the competitive short-term rental market.
+**Impact:** This project demonstrates end-to-end ML capabilities—from data cleaning to production deployment—providing actionable insights for property investors and urban planners to assess valuation factors in competitive markets.  
 
 ---
 
-### Interactive Dashboard
+### Interactive Prediction Tool
 
-[See embedded dashboard](/airbnbIndex.html)
+[See tool](/airbnbIndex.html)
 
 <img src="images/airbnb_screenshot_UWS.png?raw=true"/>
 
@@ -32,4 +36,5 @@
 
 ### References
 
-[1] Datasets from [Inside Airbnb](https://insideairbnb.com/new-york-city/), found via Tableau's [blog post](https://www.tableau.com/blog/how-to-find-sources-for-public-data-sets) on public data sets
+[1] Dataset from [Kaggle Real Estate](https://www.kaggle.com/datasets/quantbruce/real-estate-price-prediction?resource=download)
+[2] Image generated from [Google Gemini](https://gemini.google.com)
