@@ -24,7 +24,7 @@
 
 ### Interactive Dashboard
 
-[See embedded dashboard](/airbnbIndex.html)
+[See embedded dashboard](/projects/airbnbIndex.html)
 
 <img src="images/airbnb_screenshot_UWS.png?raw=true"/>
 
