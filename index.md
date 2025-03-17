@@ -15,16 +15,18 @@ I value beautiful design and efficiency. When not working, I love to draw inspir
 _Click links below to access executive summary and embedded visuals per project._
 
 [Predicting Real Estate Price with Machine Learning (Ridge Regression)](/projects/real_estate)
+<br>
 <br><img src="images/realestateimage.jpg?raw=true"/>
 
 ---
 
 [A Snapshot of NYC Dogs](/projects/a_snapshot_of_nyc_dogs)
+<br>
 <br><img src="images/nycdogsscreenshot.png?raw=true"/>
 
 ---
 
 [Airbnb Competitive Pricing Analysis - NYC](/projects/airbnb)
-Project Overview: Analyzed multiple datasets to create a comprehensive visualization of dog ownership and infrastructure in New York City using Power Query and Power BI.
+<br>**Project Overview:** Analyzed multiple datasets to create a comprehensive visualization of dog ownership and infrastructure in New York City using Power Query and Power BI.
 <br><img src="images/airbnb_screenshot.png?raw=true"/>
 
