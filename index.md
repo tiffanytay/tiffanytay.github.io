@@ -14,6 +14,11 @@ I value beautiful design and efficiency. When not working, I love to draw inspir
 
 _Click links below to access executive summary and embedded visuals per project._
 
+[Predicting Real Estate Price with Machine Learning (Ridge Regression)](/real_estate)
+<br><img src="images/nycdogsscreenshot.png?raw=true"/>
+
+---
+
 [A Snapshot of NYC Dogs](/a_snapshot_of_nyc_dogs)
 <br><img src="images/nycdogsscreenshot.png?raw=true"/>
 
