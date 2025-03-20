@@ -31,7 +31,7 @@
 
 [See code](/projects/real_estate.html)
 
-<br><img src="images/realestateimage.jpg?raw=true"/>
+<br><img src="/images/realestateimage.jpg?raw=true"/>
 
 ---
 
