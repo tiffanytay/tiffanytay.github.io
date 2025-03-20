@@ -26,7 +26,7 @@
 
 [See embedded dashboard](/projects/airbnbIndex.html)
 
-<img src="images/airbnb_screenshot_UWS.png?raw=true"/>
+<img src="/images/airbnb_screenshot_UWS.png?raw=true"/>
 
 ---
 
