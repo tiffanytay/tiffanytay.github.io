@@ -15,18 +15,21 @@ I value beautiful design and efficiency. When not working, I love to draw inspir
 _Click links below to access executive summary and code / embedded visuals per project._
 
 [Predicting Real Estate Price with Machine Learning (Ridge Regression)](/projects/real_estate)
-<br><br>Project Overview: Built a machine learning model to predict property prices per unit area based on location and urban infrastructure features, using a real estate dataset from Kaggle.
-<br><img src="images/realestateimage.jpg?raw=true"/>
+<br><br><u>Project Overview</u>
+<br>Built a machine learning model to predict property prices per unit area based on location and urban infrastructure features, using a real estate dataset from Kaggle.
+<br><br><img src="images/realestateimage.jpg?raw=true"/>
 
 
 
 [A Snapshot of NYC Dogs](/projects/a_snapshot_of_nyc_dogs)
-<br><br>**Project Overview:** Analyzed multiple datasets to create a comprehensive visualization of dog ownership and infrastructure in New York City using Power Query and Power BI.
-<br><img src="images/nycdogsscreenshot.png?raw=true"/>
+<br><br><u>Project Overview:</u> 
+<br>Analyzed multiple datasets to create a comprehensive visualization of dog ownership and infrastructure in New York City using Power Query and Power BI.
+<br><br><img src="images/nycdogsscreenshot.png?raw=true"/>
 
 
 
 [Airbnb Competitive Pricing Analysis - NYC](/projects/airbnb)
-<br><br>**Project Overview:** Analyzed multiple datasets to create a comprehensive visualization of dog ownership and infrastructure in New York City using Power Query and Power BI.
-<br><img src="images/airbnb_screenshot.png?raw=true"/>
+<br><br><u>Project Overview:</u>
+<br>Analyzed multiple datasets to create a comprehensive visualization of dog ownership and infrastructure in New York City using Power Query and Power BI.
+<br><br><img src="images/airbnb_screenshot.png?raw=true"/>
 
