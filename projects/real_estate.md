@@ -30,9 +30,8 @@
 ### Interactive Prediction Tool
 
 [See code](/projects/real_estate.html)
-<br>[See tool](/__)
 
-<img src="images/realestateimage.jpg?raw=true"/>
+<br><img src="images/realestateimage.jpg?raw=true"/>
 
 ---
 
