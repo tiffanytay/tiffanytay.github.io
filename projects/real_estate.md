@@ -4,25 +4,26 @@
 
 **Key Accomplishments:**  
 - Cleaned and analyzed a real estate dataset in Azure Data Studio (Jupyter Notebook), handling missing values and outliers.  
-- Engineered a **Ridge Regression model** achieving **0.82 R-squared** and **5.2 MAE** (mean absolute error) on test data.  
+- Engineered a **Ridge Regression model** achieving **0.63 R-squared** and **5.91 MAE** (mean absolute error) on test data.  
 - Identified key price drivers:  
-  - **-12% price impact** per km from public transit  
-  - **+3.8% price gain** per nearby convenience store  
-  - **-0.4% annual depreciation** from house age  
-- Deployed the model as an interactive web widget for real-time predictions.  
+  - **+$7.74 price gain per unit area** for each degree increase in latitude (moving north) - showing northern neighborhoods may be more valuable
+  - **+$5.63 price gain per unit area** for each unit increase in time - showing market appreciation over time
+  - **+$1.27 price gain per unit area** for each additional nearby convenience store - showing the value of neighborhood amenities
+- Deployed the model in a function that returns the model's prediction and as an interactive widget for real-time predictions.  
 
 **Technical Skills Demonstrated:**  
-- Machine Learning: Ridge Regression, hyperparameter tuning (alpha=1.2)  
-- Data Engineering: Feature selection, outlier detection (IQR method)  
-- Tools: scikit-learn, pandas, Matplotlib, Jupyter Notebook  
-- Deployment: Model serialization (Pickle), widget integration  
+- Machine Learning: Ridge Regression
+- Data Engineering: Feature selection, multicollinearity detection
+- Tools: scikit-learn, pandas, seaborn, plotly, ipywidgets, Jupyter Notebook  
+- Deployment: Pandas function, widget integration  
 
 **Future Enhancements:**  
 - Incorporate satellite imagery for greenery/urban density scoring  
 - Expand location features with walkability indexes  
-- Test ensemble methods (Random Forest, XGBoost)  
+- Test ensemble methods (Random Forest, XGBoost)
+- Compare this R-squared with simpler models or industry standards to gauge relative performance  
 
-**Impact:** This project demonstrates end-to-end ML capabilities—from data cleaning to production deployment—providing actionable insights for property investors and urban planners to assess valuation factors in competitive markets.  
+**Impact:** This project demonstrates end-to-end ML capabilities—from data cleaning to production deployment—providing actionable insights for property investors and urban planners to assess valuation factors in competitive markets.  Older properties near many convenience stores in northern areas hold better value.
 
 ---
 
@@ -31,7 +32,7 @@
 [See code](/projects/real_estate.ipynb)
 <br>[See tool](/__)
 
-<img src="images/airbnb_screenshot_UWS.png?raw=true"/>
+<img src="images/realestateimage.jpg?raw=true"/>
 
 ---
 
