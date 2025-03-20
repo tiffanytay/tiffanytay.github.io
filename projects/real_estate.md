@@ -27,7 +27,7 @@
 
 ---
 
-### Interactive Prediction Tool
+### Prediction Model Code
 
 [See code](/projects/real_estate_code.html)
 
