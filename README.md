@@ -21,7 +21,7 @@ Outside of work, I find inspiration in travel, puzzles, and culinary adventuresâ
 
 ### Skills
 
-- Data Viz: Power BI, Tableau
+- Data Vizualization: Power BI, Tableau
 - Data Analytics: Alteryx, Power Query, Excel, VBA, DAX, Gen AI (ChatGPT, Perplexity, etc.), Pendo, Python, SQL
 
 
