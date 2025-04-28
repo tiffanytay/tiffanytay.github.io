@@ -1,10 +1,10 @@
 ## About Me
 
-With over 15 years of experience spanning **consulting, compliance and data analytics**, I've evolved into a resourceful data storyteller who bridges the gap between complex financial information and actionable business insights. 
+With over 15 years of experience spanning consulting, compliance and data analytics, I've evolved into a resourceful data storyteller who bridges the gap between complex financial information and actionable business insights. 
 
 I have led a tax reporting module launched nationwide, resulting in enhanced data accessibility for thousands of clients and significant time savings. My expertise lies in transforming raw data into strategic assets, whether it's through developing comprehensive dashboards that secure multi-million dollar proposals or optimizing processes to save thousands of work hours. I thrive on using data to solve complex business problems and am passionate about fostering a data-driven culture that empowers organizations to make informed decisions.
 
-Before PwC, I graduated from the University of Texas at Austin with both bachelor's and master's degrees in accounting. My credentials include **CPA** licenses in NY and TX and Advanced Designer Certification in Alteryx - as well as a culinary certification from the Natural Gourmet Institute in NYC.
+Before PwC, I graduated from the University of Texas at Austin with both bachelor's and master's degrees in Accounting. My credentials include CPA licenses in NY and TX and Advanced Designer Certification in Alteryx - as well as a culinary certification from the Natural Gourmet Institute in NYC.
 
 I value beautiful design and efficiency. When not working, I love to draw inspiration from travel, hang out with dogs, try new foods and take on challenging puzzles.
 
