@@ -28,6 +28,6 @@ _Click links below to access executive summary and code / embedded visuals per p
 <br><br>
 [Airbnb Competitive Pricing Analysis - NYC](/projects/airbnb.md)
 <br><br>**Project Overview:**
-<br>Analyzed multiple datasets to create a comprehensive visualization of dog ownership and infrastructure in New York City using Power Query and Power BI.
+<br>Using publicly available Airbnb data sets, developed a data-driven pricing strategy for a luxury Airbnb apartment in New York City to maximize profitability.
 <br><br><img src="images/airbnb_screenshot.png?raw=true"/>
 
