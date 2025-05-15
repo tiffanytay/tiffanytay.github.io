@@ -1,6 +1,6 @@
 ## About Me
 
-Product leader with 10+ years of consulting experience, including 5 years driving innovation and growth in SaaS analytics and reporting platforms for B2B clients. Expert at leading cross-functional teams to deliver user-centered, data-driven solutions that increase engagement, retention, and measurable business impact. Passionate about leveraging technology for social good and empowering organizations to make data-informed decisions.
+<b>Driven product and operations leader</b> with 10+ years of experience building and scaling B2B SaaS solutions and leading nonprofit teams to greater impact. I specialize in translating complex data into actionable insights, launching user-centered products, and optimizing operations to drive measurable growth-whether that means increasing customer retention for a SaaS platform or streamlining processes to help nonprofits achieve their missions faster. Passionate about cross-functional collaboration and social good, I thrive at the intersection of technology, analytics, and purpose, and am always eager to connect with teams committed to making a difference.
 
 Before PwC, I graduated from the University of Texas at Austin with both bachelor's and master's degrees in Accounting. My credentials include CPA licenses in NY and TX and Advanced Designer Certification in Alteryx - as well as a culinary certification from the Natural Gourmet Institute in NYC.
 
