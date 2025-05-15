@@ -4,7 +4,7 @@
 
 ### In a Nutshell
 
-- 📊 Product Manager + Analytics Wiz
+- 📊 Product Manager | B2B SaaS & Data Analytics Leader | Building Scalable Reporting & Automation Solutions for Social Impact
 - 💼 10+ years of experience in consulting, compliance, data analytics and product management
 - 🌎 Based in the United States
 
