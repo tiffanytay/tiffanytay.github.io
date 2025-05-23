@@ -26,4 +26,4 @@ Outside of work, I find inspiration in travel, puzzles, and culinary adventures.
 
 Let’s connect — I’d love to explore how we can turn your data into your greatest asset.
 
-[tiffany.tay@gmail.com](mailto:tiffany.tay@gmail.com)
+[Schedule 30 min with Tiffany](https://calendly.com/tiffany-tay-fwjn/30min)
