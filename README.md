@@ -4,22 +4,38 @@
 
 ### In a Nutshell
 
-- 📊 Product Manager | B2B SaaS & Data Analytics Leader | Building Scalable Reporting & Automation Solutions for Social Impact
-- 💼 10+ years of experience in consulting, compliance, data analytics and product management
+- 📊 CPA | Nonprofit Finance/Operations Leader | B2B SaaS & Data Analytics Leader | A Jane of All Trades
+- 💼 10+ years of experience in consulting, compliance, finance, operations, data analytics and product management
 - 🌎 Based in the United States
 
 ### Professional Summary
 
-Driven product and operations leader with 10+ years of experience building and scaling B2B SaaS solutions and leading nonprofit teams to greater impact. I specialize in translating complex data into actionable insights, launching user-centered products, and optimizing operations to drive measurable growth-whether that means increasing customer retention for a SaaS platform or streamlining processes to help nonprofits achieve their missions faster. Passionate about cross-functional collaboration and social good, I thrive at the intersection of technology, analytics, and purpose, and am always eager to connect with teams committed to making a difference.
+👋 Hi, I’m Tiffany — a CPA and finance operations leader passionate about building systems that make mission-driven organizations stronger, smarter, and more equitable. Over the past 10+ years across Big 4 accounting, SaaS, and nonprofit operations, I’ve led cross-functional teams that modernized financial processes, strengthened compliance, and turned complex data into clear, actionable insights.
 
-Outside of work, I find inspiration in travel, puzzles, and culinary adventures. I’m always eager to connect with like-minded professionals who share my passion for leveraging data to make a difference. 
+I specialize in nonprofit financial management 💵, data analytics 📊, budgeting and forecasting 📈, audit readiness 🔎, and process automation ⏩. My work focuses on streamlining reporting to improve transparency and decision-making:
+
+- At Rescuing Leftover Cuisine, I direct product development and technology operations.
+
+- At the Data Visualization Society, I partner with the Executive Director in implementing process improvements to help us run faster, better and within budget.
+
+- At PwC, I led global analytics teams to build financial reporting pipelines that reduced turnaround by 30% and improved audit efficiency across clients.
+
+- At the Asian American Arts Alliance, I implemented technology to modernize performance and budgeting reviews—accelerating board-level decisions by 50%.
+
+Now, I’m focused on helping nonprofits and social enterprises strengthen their financial infrastructure, optimize resource allocation, and scale their impact through clear systems and data-driven strategy.
+
+Outside of work, I find inspiration in travel, puzzles, and culinary adventures.
 
 
 ### Skills
 
+- Finance: Quickbooks
+- Operations: Process optimization
+- CRM: Salesforce
 - Product Management: Product Roadmaps & Strategy, System Integrations, SaaS Products, User-centered Design
-- Data Analytics & Visualization: Alteryx, Power Query, Excel, DAX, Pendo, Python, SQL, Power BI, Tableau
-- Collaboration: Microsoft 365, Google Suite, Confluence, Azure DevOps, Miro, Slack, Agile Development
+- Data Analytics & Visualization: Alteryx, Power Query, Excel, DAX, Pendo, Python, SQL, Power BI, Tableau, Mode
+- Collaboration: Microsoft 365, Google Suite, Jira/Confluence, Azure DevOps, Github CI/CD, Miro/Mural, Slack, Agile/Kanban Development
+- AI: Claude (Chat, Cowork, Code), Perplexity, Gemini
 
 
 ### Contact Info
